@@ -57,12 +57,11 @@ Execute Scan: Run the decryption process to see if the signal is SAFE or a SPAM 
 
 Note on Dataset: The emails.zip file contains the raw dataset in compressed format due to size limitations. Extract it if you wish to inspect the training data.
 
-
-Try My App
-
-https://neural-scanner-v1-momin17qingu.streamlit.app/
-
-
 SYSTEM_STATUS: OPERATIONAL 🟢
 
 USER: SHAHEER_AHMIII | CORE: MNB-V1
+
+
+🔗 Try My App
+
+https://neural-scanner-v1-momin17qingu.streamlit.app/
